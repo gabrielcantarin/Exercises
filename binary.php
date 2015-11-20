@@ -6,10 +6,6 @@ print_r($data);
 echo '</br>';
 echo '</br>';
 
-
-$aux = null;
-
-
 function binarySearch($needed, array $data) {
 
 	$elements = count($data);
